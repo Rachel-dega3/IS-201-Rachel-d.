@@ -1,0 +1,41 @@
+.container {
+    width: 560px;
+    height: 315px;
+}
+
+
+.photo {
+    width: 360px;
+    height: 204.8px;
+    padding: 20px;
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.myList {
+    font-family: cursive;
+}
+
+h1 {
+    color: darkgreen;
+}
+
+h3 {
+    text-decoration: underline;
+    text-decoration-color: darkgreen;
+    color: darkgreen;
+}
+
+ol {
+    font-size: 14px;
+}
+
+ul {
+    color: darkslategray;
+}
+
+body {
+    background-color: #ffe4e1; /* Light pink */
+    font-family: serif;
+}
